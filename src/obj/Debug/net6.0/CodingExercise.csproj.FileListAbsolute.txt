@@ -1,0 +1,92 @@
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/appsettings.Development.json
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/appsettings.json
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise.staticwebassets.runtime.json
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise.deps.json
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise.runtimeconfig.json
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/personal/coding-exercise/src/bin/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.AssemblyInfoInputs.cache
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.AssemblyInfo.cs
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.csproj.CoreCompileInputs.cache
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cache
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cs
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.sourcelink.json
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets/msbuild.CodingExercise.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets/msbuild.build.CodingExercise.props
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CodingExercise.props
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CodingExercise.props
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/scopedcss/bundle/CodingExercise.styles.css
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/scopedcss/projectbundle/CodingExercise.bundle.scp.css
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/refint/CodingExercise.dll
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/CodingExercise.genruntimeconfig.cache
+/Users/jacobsullivan/personal/coding-exercise/src/obj/Debug/net6.0/ref/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/appsettings.Development.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/appsettings.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise.staticwebassets.runtime.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise.deps.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise.runtimeconfig.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/bin/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.AssemblyInfoInputs.cache
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.AssemblyInfo.cs
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.csproj.CoreCompileInputs.cache
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cache
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cs
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.sourcelink.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets/msbuild.CodingExercise.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets/msbuild.build.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/scopedcss/bundle/CodingExercise.styles.css
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/scopedcss/projectbundle/CodingExercise.bundle.scp.css
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/refint/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/CodingExercise.genruntimeconfig.cache
+/Users/jacobsullivan/Javas Crypt/demo/coding-exercise-1st/src/obj/Debug/net6.0/ref/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/appsettings.Development.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/appsettings.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise.staticwebassets.runtime.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise.deps.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise.runtimeconfig.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/code-sample/src/bin/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.AssemblyInfoInputs.cache
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.AssemblyInfo.cs
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.csproj.CoreCompileInputs.cache
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cache
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.RazorAssemblyInfo.cs
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets/msbuild.CodingExercise.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets/msbuild.build.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CodingExercise.props
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/scopedcss/bundle/CodingExercise.styles.css
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/scopedcss/projectbundle/CodingExercise.bundle.scp.css
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/refint/CodingExercise.dll
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.pdb
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/CodingExercise.genruntimeconfig.cache
+/Users/jacobsullivan/Javas Crypt/code-sample/src/obj/Debug/net6.0/ref/CodingExercise.dll

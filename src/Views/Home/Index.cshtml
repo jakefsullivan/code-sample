@@ -1,0 +1,39 @@
+﻿@model CodingExercise.Models.IndexViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>USERS:</h1>
+        <input type="text" id="searchInput" placeholder="Search users...">
+
+        <div id="userList"></div>
+    </div>
+
+    <div id="userModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 id="modalName"></h2>
+        <p><strong>Email:</strong> <span id="modalEmail"></span></p>
+        <p><strong>Phone:</strong> <span id="modalPhone"></span></p>
+    </div>
+    </div>
+
+
+    <script>
+        const usersData = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.Users));
+        window.usersData = usersData;
+    </script>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>
+
+@{
+    Console.WriteLine("Users in model: " + (Model.Users != null ? Model.Users.Count : 0));
+}
+

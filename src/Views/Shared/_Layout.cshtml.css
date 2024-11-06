@@ -1,0 +1,87 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+a {
+  color: #1a2d5c; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffb03b; 
+}
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #ffb03b; 
+  border-color: #d48d2c; 
+}
+
+.btn-primary:hover {
+  background-color: #d48d2c; 
+  border-color: #b57921; 
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #ffffff;
+  background-color: #1a2d5c; 
+  border-color: #16294b; 
+}
+
+.border-top {
+  border-top: 1px solid #e0e7ff; 
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e0e7ff; 
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(26, 45, 92, 0.1);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+  color: #ffffff;
+  background-color: #ffb03b; 
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button.accept-policy:hover {
+  background-color: #d48d2c; 
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+  background-color: #1a2d5c; 
+  color: #ffffff;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #1a2d5c; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a2d5c; 
+}
+
+p {
+  color: #4a4a4a; 
+}
